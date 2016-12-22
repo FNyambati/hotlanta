@@ -8,12 +8,12 @@ angular.module('app', ['ui.router', 'ngCart'])
       url: '/',
       templateUrl: "/routes/home/home.html",
     })
-    .state('cart', {
+    .state('entertainment', {
       url: '/cart',
-      templateUrl: "/routes/cart/cart.html",
+      templateUrl: "/routes/entertainment/entertainment.html",
     })
-    .state('products', {
-      url: '/products',
-      templateUrl: "/routes/products/products.html",
+    .state('things-to-do', {
+      url: '/things-to-do',
+      templateUrl: "/routes/things-to-do/things-to-do.html",
     });
 });
