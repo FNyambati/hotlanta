@@ -1,2 +1,2 @@
-# name-tbd
-next great portfolio piece
+# hotlanta
+front-end heavy travel site for Atlanta
